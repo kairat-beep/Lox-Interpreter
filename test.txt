@@ -1,0 +1,27 @@
+(
+<= ==
+>=
+!=
+#
+&
+%
+`
+=
+)
+"a ads"
+"bnndsaf" "cdsfafndsfa" "asdf  "
+
+"sadfafds"
+
+"" &
+123
+123.123
+213.
+123..123
+this
+while
+true
+false
+
+a3214
+fadshjkl
